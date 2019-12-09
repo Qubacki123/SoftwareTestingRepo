@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <CUnit/Basic.h>
+#include "CUnit/Basic.h"
 
 int init_suite(void) { return 0; }
 int clean_suite(void) { return 0; }
