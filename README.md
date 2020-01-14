@@ -1,5 +1,5 @@
 # Testowanie Oprogramowania Systemów Krytycznych
-# Politechnika Gdańska 2019/2020
+## Politechnika Gdańska 2019/2020
 # How to start
 
 1. Grant execute rights for scripts:
